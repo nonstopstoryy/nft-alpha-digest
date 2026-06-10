@@ -1,0 +1,24 @@
+{
+  "name": "nft-alpha-digest",
+  "version": "1.0.0",
+  "description": "Daily AI research on top 25 NFT collections across Ethereum, Base &amp; Shape — holder analysis, wash trading signals, sentiment &amp; early alpha scoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nonstopstoryy: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@github.com/nonstopstoryy/nft-alpha-digest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonstopstoryy/nft-alpha-digest/issues"
+  },
+  "homepage": "https://github.com/nonstopstoryy/nft-alpha-digest#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "node-fetch": "^3.3.2"
+  }
+}
