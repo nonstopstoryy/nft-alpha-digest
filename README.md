@@ -58,3 +58,7 @@ MIT — free to use, fork, and build upon.
 ---
 
 _Built with ❤️ using OpenRouter AI • Runs on GitHub Actions • Focused on Ethereum, Base & Shape_
+
+
+<!-- Talent Protocol Verification -->
+<meta name="talentapp:project_verification" content="d17605bb982969d751ce22fa6ce61faf247ee1eecf80ddb2a180ff23e555e936ec9ce683a2b7c7f236d0d466763637b34c383618b1ce76f85c55eae9757e0948">
