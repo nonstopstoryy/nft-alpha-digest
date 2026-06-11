@@ -1,22 +1,11 @@
 # Ethereum Top 25 NFT Collections — 2026-06-11
 
-I can’t produce a **credible, collection-by-collection “deep research report”** for the top 25 Ethereum NFT collections with the requested metrics from the provided material alone, because the search results only give **partial ranking snippets** and **do not include the underlying live data** needed for floors, 24h change, 24h volume, 7d trend, holder concentration, wash-trading signals, dormant wallet activity, sentiment indices, or cross-collection correlation. The available sources do confirm that Ethereum’s leading NFT sets currently include names like **CryptoPunks, BAYC, Pudgy Penguins, Azuki, Mutant Ape Yacht Club, Art Blocks, Autoglyphs, Opepen Edition, CLONE X**, and **ENS**-related activity, but not the full analyst-grade dataset required for your prompt.[1][3][5][10][14][15]
+I can’t produce a **specific top-25 Ethereum NFT market report with floor prices, 24h changes, wallet activity, wash-trade signals, and correlation calls** from the results provided, because the search set is missing the actual current ranking tables and underlying transaction-level data needed to verify those metrics. The available sources only give partial collection rankings, broad market lists, and general commentary, not the full June 11, 2026 market tape required for a defensible analyst report.[1][2][5][10][14][15]
 
-What I *can* do from the provided evidence is give you a **directionally correct market frame** and identify the **most visible leaders** mentioned across ranking sources. For example, Binance’s Ethereum top-9 list includes **CryptoPunks, Art Blocks, Mutant Ape Yacht Club, Bored Ape Yacht Club, Opepen Edition, Autoglyphs, Azuki, Pudgy Penguins, and CLONE X**.[3] TechBullion’s May 2026 market-cap snapshot also places **CryptoPunks, BAYC, Pudgy Penguins, Doginal Dogs, Mutant Ape Yacht Club, Milady Maker, and Azuki** among the highest-value projects cited for 2026 so far.[5] CoinGecko and NFTScan are the kinds of sources that typically carry the floor-price and market-cap rankings needed for a proper top-25 report, but the snippets provided here don’t expose the actual 25-row dataset.[10][14][15]
+What I *can* say from the supplied sources is that the Ethereum NFT market still centers on a small blue-chip set led by **CryptoPunks**, **Bored Ape Yacht Club**, **Pudgy Penguins**, **Azuki**, and **Mutant Ape Yacht Club**, with other recurring names such as **Art Blocks**, **Autoglyphs**, **Opepen Edition**, and **CLONE X** appearing in curated 2026 lists and rankings.[5][6][8] CoinGecko’s ranking snippet also shows **Baby Bears Ethereum** as a ranked Ethereum collection with a floor of **19.88 ETH** and a **22.6%** change in the excerpted data, but the snippet is not enough to build a reliable top-25 table or assess the broader market structure.[1]
 
 If you want, I can still help in one of two ways:
+- **Option 1:** You provide a live export or screenshots from **CoinGecko NFT**, **NFTScan**, **OpenSea/Blur/OKX rankings**, and I will turn it into the full deep-research report in your requested format.
+- **Option 2:** I can generate a **best-effort qualitative report** on the most important Ethereum collections using only the names and market narratives visible in the sources, but it would necessarily omit precise floor/volume/wallet metrics and would not meet your “specific with numbers” requirement.
 
-- **Option 1: Full report using live market data** — if you allow me to work from a fresh data pull or provide the raw ranking export, I can generate the exact 25-collection table with all 11 fields you requested.
-- **Option 2: Best-effort desk report now** — I can produce a **qualitative top-25 Ethereum NFT analyst brief** using the collections visible in the sources and clearly label which metrics are inferred versus directly observed.
-
-For transparency, the **only concrete market-ranking evidence** in the provided sources is:
-- Ethereum NFT collection leaders listed by Binance: **CryptoPunks, Art Blocks, Mutant Ape Yacht Club, Bored Ape Yacht Club, Opepen Edition, Autoglyphs, Azuki, Pudgy Penguins, CLONE X**.[3]
-- A broader 2026 value snapshot highlighting **CryptoPunks, BAYC, Pudgy Penguins, Doginal Dogs, MAYC, Milady Maker, Azuki**.[5]
-- An ENS-led sales burst on Ethereum, showing that **Ethereum Name Service** can still dominate weekly sales charts in certain windows.[2]
-- Ranking portals from **OKX, CoinGecko, NFTScan, and NFT Price Floor** that would normally be used to verify top-25 floor/volume standings.[1][8][10][14][15]
-
-If you’d like, send me either:
-- a **CSV/export** of the top 25 collections, or
-- permission to proceed with a **qualitative-only report** based on the collections named in the sources,
-
-and I’ll format it exactly as requested in clean markdown.
+If you want the report now, send a live ranking dump for the top 25 collections and I’ll format the full analysis exactly as requested.
