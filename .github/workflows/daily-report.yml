@@ -35,7 +35,9 @@ jobs:
         run: |
           git config --global user.name "NFT Alpha Bot"
           git config --global user.email "bot@nft-alpha-digest.io"
+          git stash
           git pull origin main --rebase
+          git stash pop
           git add reports/ LATEST.md
           git diff --staged --quiet || git commit -m "📊 Daily NFT Alpha Report - $(date +%Y-%m-%d)"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/nonstopstoryy/nft-alpha-digest.git main
